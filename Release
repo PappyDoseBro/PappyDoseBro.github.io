@@ -1,0 +1,8 @@
+Origin: Papadosio
+Label: Papadosio
+Suite: stable
+Version: 1.0
+Codename: PappyDoseBro
+Architectures: iphoneos-arm
+Components: main
+Description: Papadosio related jailbreak stuff for Dosio Fam
